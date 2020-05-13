@@ -8,7 +8,8 @@ Ext.application({
     name: 'Demo',
 
     requires: [
-        'Demo.util.Renderer',
+        'Util.Renderer',
+        // 'Demo.util.Renderer',
         'Demo.view.main.Main'
     ],
     

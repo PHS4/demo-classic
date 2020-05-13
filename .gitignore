@@ -5,3 +5,4 @@ modern.json*
 
 .DS_Store
 .vscode
+*.log
